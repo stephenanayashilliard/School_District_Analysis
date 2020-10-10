@@ -88,7 +88,10 @@ As a result of the changes to the Thomas High School 9th grade math and reading 
 ##### Scores post Thomas
 ![scores_by_school_type_post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/scores_by_school_type_post_Thomas.png)
 
-
-
+#### Top 5 Schools by Performance
+##### Top 5 Schools Pre Thomas
+![top_5_schools_pre_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/top_5_schools_pre_thomas.png)
+##### Top 5 Schools Post Thomas
+![top_5_schools_post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/top_5_schools_post_thomas.png)
 
 ## Summary
