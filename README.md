@@ -13,13 +13,13 @@ After compiling the data for Py City Schools, it was discovered that the 9th gra
 - Scores by School Type
 
 ## Results
-As a result of the changes to the Thomas High School 9th grade math and reading scores, the seven school district metrics were affected as follows:
+As a result of the changes to the Thomas High School 9th grade math and reading scores, the seven school district metrics were effected as follows:
 - District Summary (Ref:  Districk Summary Charts)
    - Average math scores for the district dropped by 1/10th of a point from 79.0 to 78.9.
    - There was no significant change for average reading scores in the district.
    - Percentage of students with passing math scores dropped by 2/10th of a point from 75% to 74.8%.
    - Percentage of students with passing reading scores dropped by 3/10th of a point from 86% to 85.7%.
-   - Overall Percentage of students who passed both math and reading dropped by 1/10th of a point from 65% to 64.9%/
+   - Overall Percentage of students who passed both math and reading dropped by 1/10th of a point from 65% to 64.9%.
 - School Summary (Ref: School Summary Charts)
    - Average math scores for the Thomas High School dropped by 6/100th of a point from 83.41 to 83.35.
    - Average reading scores for Thomas High School improved by 8/100th of a point from 83.84 to 83.89.
@@ -27,10 +27,24 @@ As a result of the changes to the Thomas High School 9th grade math and reading 
    - Percentage of students with passing reading scores dropped 27% from from 97.3% to 69.66%.
    - Overall Percentage of students who passed both math and reading dropped 25% from 90.94% to 65.07%.
 - Math Scores by Grade (Ref: Math Scores Charts)
+   - All 9th grade scores have been nullified for Thomas High School.  Not comparison possible at this time.  All other school's scores were uneffected by this change.
 - Reading Scores by Grade (Ref:  Reading Scores Charts)
+   - All 9th grade scores have been nullified for Thomas High School.  Not comparison possible at this time.  All other school's scores were uneffected by this change.
 - Scores by School Spending (Ref:  School Spending Charts)
+   - Only scores effected by the changes were for schools spending between $630 to $644 per student.
+   - Percentage of students with passing math scores dropped .06% from 73% to 67%.
+   - Percentage of students with passing reading scores dropped .07% from from 84% to 77%.
+   - Overall Percentage of students who passed both math and reading dropped .05% from 63% to 58%.
 - Scores by School Size (Ref: School Size Charts)
+   - Only scores effected by the changes were for schools with 1000 to 2000 students.
+   - Percentage of students with passing math scores dropped .06% from 94% to 88%.
+   - Percentage of students with passing reading scores dropped .06% from from 97% to 91%.
+   - Overall Percentage of students who passed both math and reading dropped .06% from 91% to 85%.
 - Scores by School Type (Ref: School Type Charts)
+   - Only scores effected by the changes were charter schools.
+   - Percentage of students with passing math scores dropped .04% from 94% to 90%.
+   - Percentage of students with passing reading scores dropped .04% from from 97% to 93%.
+   - Overall Percentage of students who passed both math and reading dropped .03% from 90% to 87%.
 
 #### District Summary Charts
 ##### District Summary Pre Thomas
