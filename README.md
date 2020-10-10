@@ -98,3 +98,10 @@ As a result of the changes to the Thomas High School 9th grade math and reading 
 ![top_5_schools_post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/top_5_schools_post_thomas.png)
 
 ## Summary
+In summary, although there were multiple areas that were effected by removing the math and reading scores for Thomas High School.  There were 5 areas that showed drastic changes. 
+- Thomas High School's performance rankings dropped.
+- Thomas High School's percentage mean scores dropped 25.33%.
+- The mean scores for schools spending between $630 and $644 dropped .06%.
+- The mean scores for schools with a student population between 1000 to 2000 students dropped .06%.
+- The mean scores for charter schools dropped .03%
+In order that decisions are being made about fund allocations based on the proper data and that schools scores effected by the removal of the 9th grade math and reading scores for Thomas High School and compared equally.   It could be advantages to run the 7 results with the Thomas High School data removed.  This would require the overall student population  to relect the subtraction of the Thomas High School student population.  The same reports could also be run, just comparing the scores of 10th to 12th graders who scores were uneffected by the changes to Thomas High School's data.
