@@ -45,6 +45,9 @@ As a result of the changes to the Thomas High School 9th grade math and reading 
    - Percentage of students with passing math scores dropped .04% from 94% to 90%.
    - Percentage of students with passing reading scores dropped .04% from from 97% to 93%.
    - Overall Percentage of students who passed both math and reading dropped .03% from 90% to 87%.
+- Top 5 Performing Schools (Ref: Top 5 Performing Schools)
+    - After removing the 9th grade math and reading scores, Thomas High School dropped from the second best performing school to out of the top 5.  Wright High School moved into 
+    top 5.
 
 #### District Summary Charts
 ##### District Summary Pre Thomas
