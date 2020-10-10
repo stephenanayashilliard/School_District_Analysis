@@ -41,7 +41,9 @@ As a result of the changes to the Thomas High School 9th grade math and reading 
 
 #### Scores by School Spending
 ##### Scores pre Thomas
+![scores_by_school_spending_pre_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/scores_by_school_spending_pre_thomas.png)
 ##### Scores post Thomas
+![scores_by_school_spending_post_thomas](https://github.com/stephenanayashilliard/School_District_Analysis/blob/main/Resources/scores_by_school_spending_post_thomas.png)
 
 #### Scores by School Size
 ##### Scores pre Thomas
